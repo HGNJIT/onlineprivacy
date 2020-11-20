@@ -11,9 +11,9 @@ By:
 Links:
 <ul>
 AFS:
-https://web.njit.edu/~heg2/dataprivacy/docs/index.html
+https://web.njit.edu/~heg2/onlineprivacy/docs/index.html
 </ul>
 <ul>
 GitHub:
-https://hgnjit.github.io/dataprivacy/
+https://hgnjit.github.io/onlineprivacy/
 </ul>
